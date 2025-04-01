@@ -21,7 +21,7 @@
 
 | Main Character (수달) | Game Icon | Pixel Style |
 |------------------------|-----------|--------------|
-| ![](./preview/icon.png) | ![](./preview/img1.png) | ![](./preview/Untitled.png) |
+| ![](./preview/icon.png) | ![](./preview/img1.png) | ![](./preview/img2.png) |
 
 ---
 

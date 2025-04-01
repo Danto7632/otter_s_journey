@@ -35,10 +35,15 @@
 
 ## 🎥 게임 플레이 장면
 
-| 장애물 통과 시 | 장애물 없는 플레인 모드 |
+| 플레이1 | 플레이2 |
 |----------------|---------------------------|
 | ![](./preview/otter1.gif) | ![](./preview/otter2.gif) |
 
+## 🔗 시연 영상
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0zgFyqS_gm0" frameborder="0" allowfullscreen></iframe>
+</div>
 ---
 
 ## 🛠 기술 스택

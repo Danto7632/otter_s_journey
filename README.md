@@ -1,7 +1,6 @@
 # 🦦 Otter's Journey  
 > 수달의 모험 (Flappy Bird Clone)  
 > 개발일자: 2022.08.21  
-> [시연 영상 보기 ▶️](https://www.youtube.com/watch?v=0zgFyqS_gm0)
 
 ---
 
@@ -61,7 +60,6 @@
 ## 🔗 외부 참고 링크
 
 - [🎬 제작 참고 영상 (Flappy Bird Clone)](https://www.youtube.com/watch?v=EqoU1PodQQ4)
-- [📺 시연 영상 보기](https://www.youtube.com/watch?v=0zgFyqS_gm0)
 
 ---
 

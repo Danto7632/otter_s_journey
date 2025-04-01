@@ -41,9 +41,9 @@
 
 ## 🔗 시연 영상
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0zgFyqS_gm0" frameborder="0" allowfullscreen></iframe>
-</div>
+[![Watch the video](https://img.youtube.com/vi/0zgFyqS_gm0/0.jpg)](https://www.youtube.com/watch?v=0zgFyqS_gm0)
+
+👉 이미지를 클릭하면 유튜브 영상으로 이동합니다.
 ---
 
 ## 🛠 기술 스택
